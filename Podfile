@@ -6,5 +6,5 @@ target 'GYDataCenter' do
   # use_frameworks!
 
   # Pods for GYDataCenter
-  pod 'FMDB'
+  pod 'FMDB','~> 2.6.2'
 end
